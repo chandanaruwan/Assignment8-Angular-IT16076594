@@ -1,3 +1,2 @@
-# github-p8rxte-fauwrw
+# assignment 8 -Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-p8rxte-fauwrw)
